@@ -6,6 +6,6 @@ R code to reproduce the analyses shown in the article.
 
 ## Start
 
-1. Download all .csv and the R code
+1. Download all .csv files and the R codes
 2. Make sure all files are stored in the same folder
 3. Open the R file and run the script
